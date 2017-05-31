@@ -11,5 +11,5 @@
 * [Vowel Count](javascript/7kyu/vowelcount.js) - [Kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 * [Disemvowel Trolls](javascript/7kyu/disemvowel.js) - [Kata](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 ### 6 KYU
-* [Counting Duplicates](javascript/7kyu/duplicates.js) - [Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
-*
+* [Counting Duplicates](javascript6kyu/duplicates.js) - [Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+* [Array.diff](javascript/6kyu/arraydiff.js) - [Kata](https://www.codewars.com/kata/523f5d21c841566fde000009)
