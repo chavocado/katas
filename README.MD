@@ -14,6 +14,6 @@
 ### 6 KYU
 * [Array.diff](javascript/6kyu/arraydiff.js) - [Kata](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * [Array Helpers](javascript/6kyu/arrayhelpers.js) - [Kata](https://www.codewars.com/kata/525d50d2037b7acd6e000534)
-* [Counting Duplicates](javascript6kyu/duplicates.js) - [Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
-* [Don't Rely On Luck](javascript6kyu/dontrelyonluck.js) - [Kata](https://www.codewars.com/kata/5268af3872b786f006000228)
-* [Find The Parity Outlier](javascript6kyu/findoutlier.js) - [Kata](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+* [Counting Duplicates](javascript/6kyu/duplicates.js) - [Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+* [Don't Rely On Luck](javascript/6kyu/dontrelyonluck.js) - [Kata](https://www.codewars.com/kata/5268af3872b786f006000228)
+* [Find The Parity Outlier](javascript/6kyu/findoutlier.js) - [Kata](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
