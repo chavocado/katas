@@ -10,6 +10,7 @@
 ### 7 KYU
 * [Disemvowel Trolls](javascript/7kyu/disemvowel.js) - [Kata](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 * [Vowel Count](javascript/7kyu/vowelcount.js) - [Kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+* [FizzBuzz](javascript/7kyu/fizzbuzz.js) - [Kata](https://www.codewars.com/kata/5300901726d12b80e8000498)
 
 ### 6 KYU
 * [Array.diff](javascript/6kyu/arraydiff.js) - [Kata](https://www.codewars.com/kata/523f5d21c841566fde000009)
